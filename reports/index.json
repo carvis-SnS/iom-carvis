@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261018-010354-4idn",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-17T14:03:54.000Z",
+      "dateEnd": "2026-10-17T15:05:42.686Z",
+      "dateLabel": "10/18/2026, 1:03:54 AM - 10/18/2026, 2:05:42 AM",
+      "url": "https://carvis-sns.github.io/iom-carvis/?report=20261018-010354-4idn",
+      "publishedBy": "carvis-SnS",
+      "summary": {
+        "borderlandsPct": 0.12941176470588237,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 74,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 22
+      }
+    },
     {
       "id": "20261014-204456-0qc1",
       "title": "Carvista",
