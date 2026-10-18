@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261018-135233-3xxl",
+      "title": "Carvis Ironjaw",
+      "commanders": [
+        "Carvis Ironjaw"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-10-18T02:52:33.000Z",
+      "dateEnd": "2026-10-18T03:54:22.768Z",
+      "dateLabel": "10/18/2026, 1:52:33 PM - 10/18/2026, 2:54:22 PM",
+      "url": "https://carvis-sns.github.io/iom-carvis/?report=20261018-135233-3xxl",
+      "publishedBy": "carvis-SnS",
+      "summary": {
+        "borderlandsPct": 0.6923076923076923,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20261018-010354-4idn",
       "title": "Carvista",
       "commanders": [
